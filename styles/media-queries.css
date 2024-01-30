@@ -1,0 +1,120 @@
+
+
+@media screen and (max-width:1445px){
+
+    body{
+
+        padding: 2rem 0 2rem 2rem;
+        margin: 0;
+
+    }
+
+    .left-main-illustration{
+
+        width: 40rem;
+
+    }
+
+    .right-main-heading{
+
+        font-size: 40px;
+
+    }
+
+    .right-main-para{
+
+        font-size: 18px;
+
+    }
+
+    footer{
+
+        padding: 0;
+        margin-top: 2rem;
+
+    }
+
+
+    .icons{
+
+        justify-content: center;
+        margin-left: 64rem;
+
+
+    }
+
+}
+
+
+@media screen and (max-width:500px){
+
+    body{
+
+        padding: 1rem 0 1rem 1rem;
+        margin: 0;
+
+        background-image: url(../images/bg-mobile.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    }
+
+    .huddle-main{
+
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .left-main{
+
+        display: grid;
+        place-items: center;
+
+    }
+
+    .left-main-illustration{
+
+        width: 30rem;
+
+    }
+
+    .right-main{
+
+        display: grid;
+        place-items: center;
+        align-items: center;
+
+    }
+
+    .right-main-heading{
+
+        font-size: 30px;
+        margin-left: 2rem;
+        text-align: center;
+
+    }
+
+    .right-main-para{
+
+        font-size: 15px;
+        text-align: center;
+        margin-left: 1rem;
+
+    }
+
+    footer{
+
+        padding: 0;
+        margin-top: 3rem;
+
+    }
+
+    .icons{
+ 
+        margin-left: 6rem;
+        gap: 2rem;
+
+    }
+
+}
