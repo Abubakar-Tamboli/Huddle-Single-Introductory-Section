@@ -1,0 +1,70 @@
+
+
+.huddle-main{
+
+    margin-top: 10rem;
+    display: flex;
+    gap: 4rem;
+
+}
+
+
+.right-main{
+
+    margin-top: 0.5rem;
+
+}
+
+.right-main-heading{
+
+    width: 20ch;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+
+}
+
+.right-main-para{
+
+    width: 50ch;
+    font-size: 18px;
+
+}
+
+.register-btn{
+
+    margin-top: 1rem;
+    background-color: white;
+    color: hsl(257, 40%, 49%);
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    padding: 1rem 4rem;
+    font-weight: 400;
+    font-size: 18px;
+    border-radius: 20rem;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+
+}
+
+footer{
+
+    margin-top: 2rem;
+
+}
+
+.icons{
+
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+
+    margin-right: 3rem;
+
+}
+
+.social-icons{
+
+    width: 2rem;
+
+}
